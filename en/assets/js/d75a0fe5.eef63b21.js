@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcafenet=self.webpackChunkcafenet||[]).push([[950],{917:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/demo/en/blog/tags/hello","allTagsPath":"/demo/en/blog/tags","count":2}')}}]);

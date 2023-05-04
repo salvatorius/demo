@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcafenet=self.webpackChunkcafenet||[]).push([[227],{1497:e=>{e.exports=JSON.parse('{"label":"python","permalink":"/demo/en/blog/tags/python","allTagsPath":"/demo/en/blog/tags","count":1}')}}]);

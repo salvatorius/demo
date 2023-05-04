@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcafenet=self.webpackChunkcafenet||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bienvenid@","permalink":"/demo/en/blog/bienvenida"},{"title":"MDX Blog Post","permalink":"/demo/en/blog/mdx-blog-post"},{"title":"Long Blog Post","permalink":"/demo/en/blog/long-blog-post"}]}')}}]);

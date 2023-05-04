@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcafenet=self.webpackChunkcafenet||[]).push([[880],{1528:e=>{e.exports=JSON.parse('{"label":"cafe","permalink":"/blog/tags/cafe","allTagsPath":"/blog/tags","count":1}')}}]);
